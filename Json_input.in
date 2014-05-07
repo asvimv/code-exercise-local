@@ -1,6 +1,6 @@
 [
 {"name":"John","id":1,"value":"JohnValue","timestamp":"2014-05-06-23.22.25.978001"},
-{"name":"","Bob":0,"value":"BobValue","timestamp":"2014-05-06-23.22.25.978001"},
-{"name":"Douglas","id":0,"value":"DouglasValue","timestamp":"2014-05-06-23.22.25.978001"}
+{"name":"Bob","id":2,"value":"BobValue","timestamp":"2014-05-06-23.22.25.978001"},
+{"name":"John","id":3,"value":"John3Value","timestamp":"2014-05-06-23.22.25.978001"}
 ]
 
